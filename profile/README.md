@@ -7,8 +7,9 @@ Most of it is Laravel, Filament and Livewire. When a piece of that work turns ou
 ## Packages
 
 - [filament-activity-timeline](https://github.com/Bokshorn-IT/filament-activity-timeline) makes [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) readable in Filament: a record timeline, a filterable activity resource, and diffs that resolve enums, dates and foreign keys to human labels.
+- [filament-self-updater](https://github.com/Bokshorn-IT/filament-self-updater) updates a Laravel application from its own GitHub repository through Filament: the newest tag or release, installed as a queued job with a live log, with the files a release dropped removed and your own post-update commands run afterwards.
 
-Issues and pull requests are welcome on every package.
+All of them are also on [Packagist](https://packagist.org/packages/bokshorn-it/). Issues and pull requests are welcome on every package.
 
 ## Elsewhere
 
